@@ -1,0 +1,23 @@
+{
+  "name": "slack_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "botkit": "^0.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdyai/botkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/howdyai/botkit/issues"
+  },
+  "homepage": "https://github.com/howdyai/botkit#readme",
+  "description": ""
+}
